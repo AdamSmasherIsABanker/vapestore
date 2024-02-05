@@ -83,7 +83,7 @@ export default function Component() {
                   alt="Product 4"
                   className="object-cover w-full h-60"
                   height={300}
-                  src="/pictures/mint.webp"
+                  src="exmp.jpg"
                   style={{
                     aspectRatio: "400/300",
                     objectFit: "fill",
