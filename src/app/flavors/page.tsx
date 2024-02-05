@@ -80,7 +80,7 @@ export default function Component() {
                   <span className="sr-only">View</span>
                 </Link>
                 <img
-                  alt="Product 4"
+                  alt="Mint"
                   className="object-cover w-full h-60"
                   height={300}
                   src="exmp.jpg"
