@@ -9,25 +9,9 @@ export default function Component() {
         Home
       </Link>
       <nav className="flex gap-6">
-        <Link className="group hover:text-green-400 transition-colors" href="#">
+        <Link className="group hover:text-green-400 transition-colors" href="http://localhost:3000/flavors">
           <span className="sr-only">Products</span>
           Products
-        </Link>
-        <Link className="group hover:text-blue-400 transition-colors" href="#">
-          <span className="sr-only">Flavors</span>
-          Flavors
-        </Link>
-        <Link className="group hover:text-yellow-400 transition-colors" href="#">
-          <span className="sr-only">Accessories</span>
-          Accessories
-        </Link>
-        <Link className="group hover:text-indigo-400 transition-colors" href="#">
-          <span className="sr-only">About Us</span>
-          About Us
-        </Link>
-        <Link className="group hover:text-purple-400 transition-colors" href="#">
-          <span className="sr-only">Contact</span>
-          Contact
         </Link>
       </nav>
     </header>
